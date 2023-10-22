@@ -1,4 +1,3 @@
-import 'package:desafio_imc_bootcamp_flutter_dio_part_3/view/calcular_imc.dart';
 import 'package:desafio_imc_bootcamp_flutter_dio_part_3/view/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
@@ -8,12 +7,9 @@ void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   var dir = await path_provider.getApplicationDocumentsDirectory();
   Hive.init(dir.path);
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
-    routes: {
-      '/': (_) => HomePage(),
-      '/calcularimc': (_) => CalcularIMCPage(),
-    },
+    home: HomePage(),
   ));
 }
 
