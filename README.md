@@ -1,16 +1,17 @@
-# desafio_imc_bootcamp_flutter_dio_part_3
+# Calculadora de IMC
 
-A new Flutter project.
+Desafio DIO feito em Flutter para realizar cálculos de IMC e listar os resultados armazenados em Hive.
 
-## Getting Started
+## Visão geral do funcionamento do programa
 
-This project is a starting point for a Flutter application.
+https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_3/assets/9539250/15cf961c-a10c-4b27-9b62-968d7ae16b14
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Contatos
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaolvp)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-viana-peruzzo-602035226)
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-993399?style=for-the-badge)](https://web.dio.me/users/joaolvpj)
